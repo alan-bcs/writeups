@@ -4,7 +4,7 @@ Repositório contendo relatórios e documentações técnicas (*writeups*) de re
 
 ---
 
-## 📑 Índice de Writeups
+## Índice de Writeups
 
 ### 🟢 HackTheBox
 
@@ -30,7 +30,7 @@ Repositório contendo relatórios e documentações técnicas (*writeups*) de re
 
 ---
 
-## 📝 Template e Metodologia
+## Template e Metodologia
 
 O arquivo [template.tex](template.tex) contém a estrutura padrão em LaTeX adotada para a elaboração dos relatórios, garantindo consistência técnica e visual:
 
