@@ -6,7 +6,7 @@ Repositório contendo relatórios e documentações técnicas (*writeups*) de re
 
 ## Índice de Writeups
 
-### 🟢 HackTheBox
+### 🟩 HackTheBox
 
 | Desafio / Máquina | Dificuldade | Relatório (PDF) |
 | :--- | :---: | :---: |
@@ -17,7 +17,7 @@ Repositório contendo relatórios e documentações técnicas (*writeups*) de re
 | **Oopsie** | Fácil | [writeup_oopsie.pdf](hackthebox/writeup_oopsie.pdf)
 | **Reactor** | Fácil | [writeup_reactor.pdf](hackthebox/writeup_reactor.pdf)
 
-### 🔴 TryHackMe
+### 🟥 TryHackMe
 
 | Desafio / Máquina | Dificuldade | Relatório (PDF) |
 | :--- | :---: | :---: |
