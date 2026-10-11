@@ -15,7 +15,7 @@ Repositório contendo relatórios e documentações técnicas (*writeups*) de re
 | **DevHub** | Média | [writeup_devhub.pdf](hackthebox/writeup_devhub.pdf)
 | **Facts** | Média | [writeup_facts.pdf](hackthebox/writeup_facts.pdf)
 | **Oopsie** | Fácil | [writeup_oopsie.pdf](hackthebox/writeup_oopsie.pdf)
-| **Reactor** | Fácil/Média | [writeup_reactor.pdf](hackthebox/writeup_reactor.pdf)
+| **Reactor** | Fácil | [writeup_reactor.pdf](hackthebox/writeup_reactor.pdf)
 
 ### 🔴 TryHackMe
 
