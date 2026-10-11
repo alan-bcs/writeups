@@ -1,4 +1,4 @@
-# CTF Writeups 🚩
+# CTF Writeups
 
 Repositório contendo relatórios e documentações técnicas (*writeups*) de resolução de desafios e máquinas virtuais das plataformas **TryHackMe** e **HackTheBox**.
 
@@ -9,7 +9,7 @@ Repositório contendo relatórios e documentações técnicas (*writeups*) de re
 ### 🟢 HackTheBox
 
 | Desafio / Máquina | Dificuldade | Relatório (PDF) |
-| :--- | :---: | :---: |1
+| :--- | :---: | :---: |
 | **CCTV** | Fácil | [writeup_cctv.pdf](hackthebox/writeup_cctv.pdf)
 | **Connected** | Fácil | [writeup_connected.pdf](hackthebox/writeup_connected.pdf)
 | **DevHub** | Média | [writeup_devhub.pdf](hackthebox/writeup_devhub.pdf)
