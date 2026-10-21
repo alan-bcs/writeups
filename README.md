@@ -24,6 +24,7 @@ Repositório contendo relatórios e documentações técnicas (*writeups*) de re
 | **Bounty Hacker** | Fácil | [writeup_bountyhacker.pdf](tryhackme/writeup_bountyhacker.pdf)
 | **Chocolate Factory** | Fácil | [writeup_chocolate_factory.pdf](tryhackme/writeup_chocolate_factory.pdf)
 | **Crack The Hash** | Fácil | [writeup_crackthehash.pdf](tryhackme/writeup_crackthehash.pdf)
+| **LazyAdmin** | Fácil | [writeup_lazyadmin.pdf](tryhackme/writeup_lazyadmin.pdf)
 | **Pickle Rick** | Fácil | [writeup_picklerick.pdf](tryhackme/writeup_picklerick.pdf)
 | **RootMe** | Fácil | [writeup_rootme.pdf](tryhackme/writeup_rootme.pdf)
 | **Simple CTF** | Fácil | [writeup_simplectf.pdf](tryhackme/writeup_simplectf.pdf)
@@ -32,7 +33,7 @@ Repositório contendo relatórios e documentações técnicas (*writeups*) de re
 
 ## Template e Metodologia
 
-O arquivo [template.tex](template.tex) contém a estrutura padrão em LaTeX adotada para a elaboração dos relatórios, garantindo consistência técnica e visual:
+O arquivo [writeup-template/main.tex](writeup-template/main.tex) contém a estrutura padrão em LaTeX adotada para a elaboração dos relatórios, garantindo consistência técnica e visual:
 
 * **Capa e Metadados:** Título, plataforma, data, autor e tabela de informações do desafio.
 * **Visão Geral (Sem Spoilers):** Descrição introdutória da superfície de ataque e objetivos sem adiantar credenciais ou respostas de forma prematura.
