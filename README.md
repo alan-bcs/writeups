@@ -28,6 +28,7 @@ Repositório contendo relatórios e documentações técnicas (*writeups*) de re
 | **Pickle Rick** | Fácil | [writeup_picklerick.pdf](tryhackme/writeup_picklerick.pdf)
 | **RootMe** | Fácil | [writeup_rootme.pdf](tryhackme/writeup_rootme.pdf)
 | **Simple CTF** | Fácil | [writeup_simplectf.pdf](tryhackme/writeup_simplectf.pdf)
+| **Tomghost** | Fácil | [writeup_tomghost.pdf](tryhackme/writeup_tomghost.pdf)
 
 ---
 
